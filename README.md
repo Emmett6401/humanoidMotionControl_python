@@ -105,3 +105,6 @@ USB 동글을 연결하고 com3가 활성화된 상태에서 선택된
 
 사물 인식을 한 결과에 따라서 로봇이 어떤 동작을 취할 수 있게 한다. 
 
+모듈 2개만 옮겨서 만들면 될것 같음 
+![image](https://github.com/user-attachments/assets/da7666cd-67d3-4e29-b256-30047ece76b8)
+
